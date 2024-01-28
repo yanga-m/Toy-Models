@@ -1,0 +1,110 @@
+[
+  {
+    "code": "10101",
+    "name": "Robot Building Kit",
+    "category": "STEM",
+    "price": 49.99,
+    "features": [
+      {
+        "id": "stem001",
+        "name": "Colorful Building Blocks",
+        "quantity": 100
+      },
+      {
+        "id": "stem002",
+        "name": "Motorized Parts",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "code": "20202",
+    "name": "Dollhouse with Furniture",
+    "category": "Dolls & Accessories",
+    "price": 79.99,
+    "features": [
+      {
+        "id": "doll001",
+        "name": "Miniature Furniture Set",
+        "quantity": 20
+      },
+      {
+        "id": "doll002",
+        "name": "LED Lighting",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "code": "30303",
+    "name": "Space Explorer Play set",
+    "category": "Educational",
+    "price": 34.99,
+    "features": [
+      {
+        "id": "edu001",
+        "name": "Astronaut Figurine",
+        "quantity": 1
+      },
+      {
+        "id": "edu002",
+        "name": "Planet Models",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "code": "40404",
+    "name": "Art and Craft Kit",
+    "category": "Arts & Crafts",
+    "price": 29.99,
+    "features": [
+      {
+        "id": "craft001",
+        "name": "Assorted Craft Supplies",
+        "quantity": 50
+      },
+      {
+        "id": "craft002",
+        "name": "Instruction Booklet",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "code": "50505",
+    "name": "Remote Control Car",
+    "category": "Electronics",
+    "price": 89.99,
+    "features": [
+      {
+        "id": "elec001",
+        "name": "Wireless Remote Control",
+        "quantity": 1
+      },
+      {
+        "id": "elec002",
+        "name": "Rechargeable Batteries",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "code": "60606",
+    "name": "Puzzle Game Set",
+    "category": "Board Games",
+    "price": 19.99,
+    "features": [
+      {
+        "id": "game001",
+        "name": "Various Puzzle Boards",
+        "quantity": 10
+      },
+      {
+        "id": "game002",
+        "name": "Game Instruction Cards",
+        "quantity": 20
+      }
+    ]
+  }
+]

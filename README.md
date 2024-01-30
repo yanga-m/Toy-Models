@@ -71,8 +71,3 @@ public static void main(String[] args) throws IOException {
     System.out.println("Maximum Quantity of Features: " + maxQuantity);
 }
 ```
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
